@@ -19,8 +19,8 @@ body {
   float: right;
   width: auto;
   height: auto;
-  max-width: 64px;
-  max-height: 64px;
+  max-width: 128px;
+  max-height: 128px;
 }
 
 #site-title,
