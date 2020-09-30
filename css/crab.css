@@ -17,6 +17,13 @@ body {
 
 #site-logo {
   float: right;
+<<<<<<< HEAD
+=======
+  width: auto;
+  height: auto;
+  max-width: 128px;
+  max-height: 128px;
+>>>>>>> 127d76d33eaa5e38522f59ccc4c63589d8afff82
 }
 
 #site-title,
@@ -155,7 +162,11 @@ span.upper {
 img {
   max-width: 100%;
 }
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> 127d76d33eaa5e38522f59ccc4c63589d8afff82
 img.right {
   float: right;
   margin: 0 0 1em 1em;
